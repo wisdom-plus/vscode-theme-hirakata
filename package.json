@@ -1,0 +1,21 @@
+{
+  "name": "hirakata",
+  "displayName": "hirakata",
+  "description": "The color theme is my line colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hirakata",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hirakata-color-theme.json"
+      }
+    ]
+  }
+}
