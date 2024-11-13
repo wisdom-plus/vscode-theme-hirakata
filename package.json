@@ -2,10 +2,20 @@
   "name": "hirakata",
   "displayName": "hirakata",
   "description": "The color theme is my line colors",
+  "publisher": "wisdom",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wisdom-plus/vscode-theme-hirakata"
+  },
+  "keywords": [
+    "theme",
+    "color",
+    "hirakata"
+  ],
   "categories": [
     "Themes"
   ],
