@@ -4,25 +4,25 @@ A Visual Studio Code theme
 
 ## Screenshots
 
-## Color Palette(WIP ここから変更を加えていく)
+## Color Palette
 
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
 | ---------- | ------------------------------------------------------------ |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
-| ![#ff9e64](https://place-hold.it/15/ff9e64/ff9e64?text=+) `#ff9e64` | Number and Boolean constants, Language support constants |
-| ![#e0af68](https://place-hold.it/15/e0af68/e0af68?text=+) `#e0af68` | Function parameters, Regex character sets, Terminal Yellow |
-| ![#cfc9c2](https://place-hold.it/15/cfc9c2/cfc9c2?text=+) `#cfc9c2` | Parameters inside functions (semantic highlighting only) |
-| ![#9ece6a](https://place-hold.it/15/9ece6a/9ece6a?text=+) `#9ece6a` | Strings, CSS class names |
-| ![#73daca](https://place-hold.it/15/73daca/73daca?text=+) `#73daca` | Object literal keys, Markdown links, Terminal Green |
-| ![#b4f9f8](https://place-hold.it/15/b4f9f8/b4f9f8?text=+) `#b4f9f8` | Regex literal strings |
-| ![#2ac3de](https://place-hold.it/15/2ac3de/2ac3de?text=+) `#2ac3de` | Language support functions, CSS HTML elements |
-| ![#7dcfff](https://place-hold.it/15/7dcfff/7dcfff?text=+) `#7dcfff` | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords |
-| ![#7aa2f7](https://place-hold.it/15/7aa2f7/7aa2f7?text=+) `#7aa2f7` | Function names, CSS property names, Terminal Blue |
-| ![#bb9af7](https://place-hold.it/15/bb9af7/bb9af7?text=+) `#bb9af7` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
-| ![#c0caf5](https://place-hold.it/15/c0caf5/c0caf5?text=+) `#c0caf5` | Variables, Class names, Terminal White |
-| ![#a9b1d6](https://place-hold.it/15/a9b1d6/a9b1d6?text=+) `#a9b1d6` | Editor Foreground |
-| ![#9aa5ce](https://place-hold.it/15/9aa5ce/9aa5ce?text=+) `#9aa5ce` | Markdown Text, HTML Text |
-| ![#565f89](https://place-hold.it/15/565f89/565f89?text=+) `#565f89` | Comments |
-| ![#414868](https://place-hold.it/15/414868/414868?text=+) `#414868` | Terminal Black |
-| ![#24283b](https://place-hold.it/15/24283b/24283b?text=+) `#24283b` | Editor Background (Storm) |
-| ![#1a1b26](https://place-hold.it/15/1a1b26/1a1b26?text=+) `#1a1b26` | Editor Background (Night) |
+| ![#2F3542](https://place-hold.it/15/2F3542/2F3542?text=+) `#2F3542` | Editor Background, Terminal Background |
+| ![#3A3E51](https://place-hold.it/15/3A3E51/3A3E51?text=+) `#3A3E51` | Sidebar Background, Line Highlight |
+| ![#BDC2CC](https://place-hold.it/15/BDC2CC/BDC2CC?text=+) `#BDC2CC` | Editor Foreground, Variables, Class Names |
+| ![#D1D6DF](https://place-hold.it/15/D1D6DF/D1D6DF?text=+) `#D1D6DF` | Markdown Text, HTML Text, Comments |
+| ![#788192](https://place-hold.it/15/788192/788192?text=+) `#788192` | Comments |
+| ![#5E81AC](https://place-hold.it/15/5E81AC/5E81AC?text=+) `#5E81AC` | Function Names, Object Properties, Terminal Blue |
+| ![#A3BE8C](https://place-hold.it/15/A3BE8C/A3BE8C?text=+) `#A3BE8C` | Strings, Terminal Green |
+| ![#EBCB8B](https://place-hold.it/15/EBCB8B/EBCB8B?text=+) `#EBCB8B` | Function Parameters, Terminal Yellow |
+| ![#B48EAD](https://place-hold.it/15/B48EAD/B48EAD?text=+) `#B48EAD` | Keywords, Storage Types, HTML Attributes |
+| ![#88C0D0](https://place-hold.it/15/88C0D0/88C0D0?text=+) `#88C0D0` | Language Support Functions, Terminal Cyan |
+| ![#D0836D](https://place-hold.it/15/D0836D/D0836D?text=+) `#D0836D` | Numbers, Constants, Escape Characters |
+| ![#C4757A](https://place-hold.it/15/C4757A/C4757A?text=+) `#C4757A` | Deleted Items |
+| ![#C5CAD6](https://place-hold.it/15/C5CAD6/C5CAD6?text=+) `#C5CAD6` | Variables, Markdown Headers |
+| ![#D57076](https://place-hold.it/15/D57076/D57076?text=+) `#D57076` | Invalid Items, Errors |
+| ![#63697B](https://place-hold.it/15/63697B/63697B?text=+) `#63697B` | Bracket Match Borders |
+| ![#404A5B](https://place-hold.it/15/404A5B/404A5B?text=+) `#404A5B` | Selection Background |
+| ![#2C313D](https://place-hold.it/15/2C313D/2C313D?text=+) `#2C313D` | Editor Widgets, Peek View Backgrounds |
+| ![#4B5362](https://place-hold.it/15/4B5362/4B5362?text=+) `#4B5362` | Highlight Backgrounds |
