@@ -3,7 +3,7 @@
   "displayName": "hirakata",
   "description": "The color theme is my line colors",
   "publisher": "wisdom",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.95.0"
   },
